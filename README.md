@@ -7,7 +7,7 @@ Coding and Computer Networks aficionado
     <img src="https://raw.githubusercontent.com/devicons/devicon/d98a72cb9a6d8e543ddbddc32bac231572349e96/icons/java/java-original.svg" alt="Java" width="48px">
   </a>
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/ac557d6ff33ff370a5db99f97aeab35ea5c67fbd/icons/javascript/javascript-original.svg" alt="JavaScript" width="36px">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/ac557d6ff33ff370a5db99f97aeab35ea5c67fbd/icons/javascript/javascript-original.svg" alt="JavaScript" width="48px">
   </a>
   <a href="https://www.python.org/" target="_blank">
     <img src="https://raw.githubusercontent.com/devicons/devicon/ac557d6ff33ff370a5db99f97aeab35ea5c67fbd/icons/python/python-original.svg" alt="Python" width="48px">
@@ -16,10 +16,11 @@ Coding and Computer Networks aficionado
     <img src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/cplusplus/cplusplus-original.svg" alt="Cpp" width="48px">
   </a>
 </div>
+
 ### Frameworks
 <div align="left">
   <a href="https://reactjs.org/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/ac557d6ff33ff370a5db99f97aeab35ea5c67fbd/icons/react/react-original.svg" alt="React" width="36px">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/ac557d6ff33ff370a5db99f97aeab35ea5c67fbd/icons/react/react-original.svg" alt="React" width="48px">
   </a>
   <a href="https://nodejs.org/en" target="_blank">
     <img src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/nodejs/nodejs-original.svg" alt="NodeJS" width="48px"> 
@@ -28,6 +29,7 @@ Coding and Computer Networks aficionado
     <img src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/spring/spring-original.svg" alt="Spring" width="48px">
   </a>
 </div>
+
 ### Tools
 <div align="left">
   <a href="https://git-scm.com" target="_blank">
@@ -41,6 +43,9 @@ Coding and Computer Networks aficionado
   </a>
 </div>
 
+## Stats
+![Huntarman's Stats](https://github-readme-stats.vercel.app/api?username=Huntarman&theme=omni&show_icons=true&hide_border=false&count_private=true))
+![Huntarman's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Huntarman&theme=omni&show_icons=true&hide_border=false&layout=compact)
 
 <!--
 **Huntarman/Huntarman** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
