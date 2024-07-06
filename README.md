@@ -43,6 +43,15 @@ Coding and Computer Networks aficionado
   </a>
 </div>
 
+## 🌱 I’m currently learning:
+<div align="left">
+  <a href="https://www.rust-lang.org/" targer="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/rust/rust-original.svg" alt="Rust" width="48px">
+  </a>
+  <a href="https://www.postgresql.org/" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/postgresql/postgresql-original.svg" alt="Postgresql" width="48px">
+  </a>
+</div>
 ---
 
 ## Stats
