@@ -44,9 +44,10 @@ Coding and Computer Networks aficionado
 </div>
 
 ## Stats
-![Huntarman's Stats](https://github-readme-stats.vercel.app/api?username=Huntarman&theme=omni&show_icons=true&hide_border=false&count_private=true))
+<div align="center">
+![Huntarman's Stats](https://github-readme-stats.vercel.app/api?username=Huntarman&theme=omni&show_icons=true&hide_border=false&count_private=true)
 ![Huntarman's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Huntarman&theme=omni&show_icons=true&hide_border=false&layout=compact)
-
+</div>
 <!--
 **Huntarman/Huntarman** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 <a href="" target="_blank">
