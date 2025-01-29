@@ -15,6 +15,9 @@ Coding and Computer Networks aficionado
   <a href="https://isocpp.org/" target="_blank">
     <img src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/cplusplus/cplusplus-original.svg" alt="Cpp" width="48px">
   </a>
+  <a href="https://www.rust-lang.org/" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/ca28c779441053191ff11710fe24a9e6c23690d6/icons/rust/rust-original.svg" alt="Rust" width="48px">
+  </a>
 </div>
 
 ### Frameworks
@@ -41,15 +44,18 @@ Coding and Computer Networks aficionado
   <a href="https://supabase.com/" target="_blank">
     <img src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/supabase/supabase-original.svg" alt="Supabase" width="48px">
   </a>
+  <a href="https://www.postgresql.org/" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/postgresql/postgresql-original.svg" alt="Postgresql" width="48px">
+  </a>
 </div>
 
 ## 🌱 I’m currently learning:
 <div align="left">
-  <a href="https://www.rust-lang.org/" targer="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/rust/rust-original.svg" alt="Rust" width="48px">
+  <a href="https://www.linux.org/" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/ca28c779441053191ff11710fe24a9e6c23690d6/icons/linux/linux-original.svg" alt="Linux" width="48px">
   </a>
-  <a href="https://www.postgresql.org/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/postgresql/postgresql-original.svg" alt="Postgresql" width="48px">
+  <a href="https://fastapi.tiangolo.com/" target="_blank">
+    <img src="https://github.com/devicons/devicon/blob/master/icons/fastapi/fastapi-original.svg" alt="FastApi" width="48px">
   </a>
 </div>
 
